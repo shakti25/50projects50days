@@ -2,10 +2,11 @@
 
 -   [Course Link](https://www.udemy.com/course/50-projects-50-days)
 -   [Course Info Website](https://rtoora-demo.xyz)
+-   [Github Course](https://github.com/bradtraversy/50projects50days)
 
 |  #  | Project             | Live Demo       |
 | :-: | ------------------- | --------------- |
-| 01  | [Expanding Cards]() | [Live Demo]()   |
+| 01  | [Expanding Cards](https://github.com/shakti25/50projects50days/tree/main/01%20-%20Expanding%20Cards) | [Live Demo](https://rtoora-demo.xyz)   |
 
 **NOTES**: TBD
 
